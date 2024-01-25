@@ -25,7 +25,8 @@ Code block that contains the array of questions for the user to answer. Question
 ![Screenshot of code](images/codesnap2.png)
 
 Code block that takes users input/answers and generates them into a readme file using FS writeFile. 
-** IMPORTANT ** 
+**           **
+<b>IMPORTANT</b>: <br>
 The code is currently set up to output the readme file into a temporary "output" folder. Users can either move the file location OR change the code in line 65 to output the
 readme file into their desired location.
 **           ** 
