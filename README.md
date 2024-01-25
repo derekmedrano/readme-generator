@@ -1,7 +1,7 @@
 # readme-generator ![license](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-Generates a professional readme template for use in projects!
+Generates a professional readme template for use in projects! App runs using Node.js
 
 
 ## Table of Contents
