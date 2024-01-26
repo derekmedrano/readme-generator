@@ -3,6 +3,10 @@
 ## Description
 Generates a professional readme template for use in projects! App runs using Node.js
 
+Here's a quick demo of the application being ran: <br>
+<video src="demo/appdemo_rmg.mp4" controls title="Title"></video>
+
+
 
 ## Table of Contents
 1. [Installation](#installation)
