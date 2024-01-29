@@ -4,7 +4,8 @@
 Generates a professional readme template for use in projects! App runs using Node.js
 
 Here's a quick demo of the application being ran: <br>
-<video src="demo/appdemo_rmg.mp4" controls title="Title"></video>
+
+<video src="demo/appdemo_rmg.mp4" controls title="App Demo"></video>
 
 
 
@@ -28,8 +29,8 @@ Code block includes packages needed for application to run (Inquirer and FS). <b
 Code block that contains the array of questions for the user to answer. Questions are prompted using Inquirer. The license section requires a selection rather than a text input, and includes limited options to avoid invalid licensing.
 ![Screenshot of code](images/codesnap2.png)
 
-Code block that takes users input/answers and generates them into a readme file using FS writeFile. 
 **           **
+Code block that takes users input/answers and generates them into a readme file using FS writeFile. 
 <b>IMPORTANT</b>: <br>
 The code is currently set up to output the readme file into a temporary "output" folder. Users can either move the file location OR change the code in line 65 to output the
 readme file into their desired location.
