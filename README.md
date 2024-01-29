@@ -5,9 +5,7 @@ Generates a professional readme template for use in projects! App runs using Nod
 
 Here's a quick demo of the application being ran: <br>
 
-<video src="demo/appdemo_rmg.mp4" controls title="App Demo"></video>
-
-
+https://github.com/derekmedrano/readme-generator/assets/42650709/5193ffa3-d216-4e2a-8145-646b7a559b86
 
 ## Table of Contents
 1. [Installation](#installation)
