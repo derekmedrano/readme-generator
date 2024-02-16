@@ -1,7 +1,7 @@
-# Sample readme ![license](https://img.shields.io/badge/license-MIT-blue)
+# employee-tracker ![license](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-Description goes here.
+This is a console-based application that allows users to manage employees, roles, and departments in a database of employees.
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -12,21 +12,21 @@ Description goes here.
 6. [Questions](#questions)
 
 ## Installation
-Project installation instructions go here.
+Project is installed via node.js. Necessary files are found in Github repo. It is recommended you Git clone onto your local machine.
 
 ## Usage
-Project use.
+Project is used in the console and deploys an inquirer based navigation menu. Use the arrow keys and the enter button to navigate the available options.
 
 ## License
 MIT
 
 ## Contributing
-Contribution instructions.
+Users and Devs can contribute via Github branching.
 
 ## Tests
-Testing.
+N/A
 
 ## Questions
-johnsmith@email.com
-[Github](www.github.com/johnsmith123)
+derekjmedrano@gmail.com
+[Github](www.github.com/derekmedrano)
 
